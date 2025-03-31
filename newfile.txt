@@ -1,0 +1,4 @@
+baka text
+write a program
+to calcuate
+certain distance.
